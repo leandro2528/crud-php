@@ -8,7 +8,7 @@
         </div>
         <div class="mb-3">
             <label for="">E-mail</label>
-            <input type="eamil" name="email" class="form-control">
+            <input type="email" name="email" class="form-control">
         </div>
         <div class="mb-3">
             <label for="">senha</label>
